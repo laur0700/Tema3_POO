@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/laur/Desktop/C++ Projects/Tema3_POO/Card.cpp
+Card.h
+/Users/laur/Desktop/C++ Projects/Tema3_POO/Card.h
+
+/Users/laur/Desktop/C++ Projects/Tema3_POO/Card.h
+Gestiune.h
+/Users/laur/Desktop/C++ Projects/Tema3_POO/Gestiune.h
+string
+-
+unordered_map
+-
+iostream
+-
+
+/Users/laur/Desktop/C++ Projects/Tema3_POO/Gestiune.h
+string
+-
+unordered_map
+-
+iostream
+-
+
+/Users/laur/Desktop/C++ Projects/Tema3_POO/Numerar.h
+Gestiune.h
+/Users/laur/Desktop/C++ Projects/Tema3_POO/Gestiune.h
+
+/Users/laur/Desktop/C++ Projects/Tema3_POO/main.cpp
+iostream
+-
+string
+-
+Gestiune.h
+/Users/laur/Desktop/C++ Projects/Tema3_POO/Gestiune.h
+Numerar.h
+/Users/laur/Desktop/C++ Projects/Tema3_POO/Numerar.h
+Card.h
+/Users/laur/Desktop/C++ Projects/Tema3_POO/Card.h
+
